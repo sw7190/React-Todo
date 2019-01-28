@@ -1,1 +1,2 @@
-.form-wrap{border: 1px solid skyblue;height: 60px;}
+.form-wrap{border: 1px solid skyblue;height: 60px;padding: 15px;}
+input{width: 80%;height: 30px;padding: 5px;}
